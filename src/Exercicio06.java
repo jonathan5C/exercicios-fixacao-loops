@@ -7,7 +7,7 @@ public class Exercicio06 {
 
 
         int soma = numero + numero2;
-        
+
         System.out.println("A soma é " + soma);
     }
 }
